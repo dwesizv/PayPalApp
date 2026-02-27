@@ -54,31 +54,41 @@ php artisan migrate
 ## Proceso
 
 ![Pantalla inicial](assets/paypal01.png)
+
 Pantalla inicial.
 
 ![Carrito con productos](assets/paypal02.png)
+
 Carrito con productos.
 
 ![Tramitando el pedido](assets/paypal03.png)
+
 Tramitando el pedido.
 
 ![Botón de pago con paypal](assets/paypal04.png)
+
 Botón de pago con paypal.
 
 ![Login de cliente de pago](assets/paypal05.png)
+
 Login de cliente de pago.
 
 ![Pantalla de pago en Paypal](assets/paypal06.png)
+
 Pantalla de pago en Paypal.
 
 ![Pago realizado correctamente](assets/paypal07.png)
+
 Pago realizado correctamente.
 
 ![Pago cancelado por usuario](assets/paypal08.png)
+
 Pago cancelado por usuario.
 
 ![Pago no autorizado por Paypal](assets/paypal09.png)
+
 Pago no autorizado por Paypal.
 
 ![Error durante el pago](assets/paypal10.png)
+
 Error durante el pago.
