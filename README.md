@@ -14,9 +14,9 @@ Aplicación de ejemplo en la que se realizan pagos a través de Paypal.
 - [Pago en línea o checkout](https://developer.paypal.com/docs/checkout/).
 - [Pago mediante suscripción](https://developer.paypal.com/docs/subscriptions/).
 
-## [Paypal developer](https://developer.paypal.com/home/)
+## Paypal developer
 
-Para poder usar el pago hay que darse de alta en Paypal Developer.
+Para poder usar el pago hay que darse de alta en [Paypal Developer](https://developer.paypal.com/home/).
 
 Se necesitan las siguientes credenciales:
 
@@ -53,17 +53,32 @@ php artisan migrate
 
 ## Proceso
 
-![Descripción](assets/paypal01.png)
-![Descripción](assets/paypal02.png)
-![Descripción](assets/paypal03.png)
-![Descripción](assets/paypal04.png)
-![Descripción](assets/paypal05.png)
-![Descripción](assets/paypal06.png)
-![Descripción](assets/paypal07.png)
-![Descripción](assets/paypal08.png)
-![Descripción](assets/paypal09.png)
-![Descripción](assets/paypal10.png)
+![Pantalla inicial](assets/paypal01.png)
+Pantalla inicial.
 
-## License
+![Carrito con productos](assets/paypal02.png)
+Carrito con productos.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+![Tramitando el pedido](assets/paypal03.png)
+Tramitando el pedido.
+
+![Botón de pago con paypal](assets/paypal04.png)
+Botón de pago con paypal.
+
+![Login de cliente de pago](assets/paypal05.png)
+Login de cliente de pago.
+
+![Pantalla de pago en Paypal](assets/paypal06.png)
+Pantalla de pago en Paypal.
+
+![Pago realizado correctamente](assets/paypal07.png)
+Pago realizado correctamente.
+
+![Pago cancelado por usuario](assets/paypal08.png)
+Pago cancelado por usuario.
+
+![Pago no autorizado por Paypal](assets/paypal09.png)
+Pago no autorizado por Paypal.
+
+![Error durante el pago](assets/paypal10.png)
+Error durante el pago.
