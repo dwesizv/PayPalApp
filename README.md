@@ -39,14 +39,13 @@ DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=...
 DB_USERNAME=...
-DB_PASSWORD=...
-
+DB_PASSWORD=...```
 
 ### Dependencias de compose
 
 ```composer require srmklive/paypal
 php artisan install:api
-php artisan migrate
+php artisan migrate```
 
 ## Contributing
 
