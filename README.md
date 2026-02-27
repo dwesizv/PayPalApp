@@ -28,7 +28,8 @@ Se necesitan las siguientes credenciales:
 
 ## Datos de .env
 
-```PAYPAL_CURRENCY=EUR
+```
+PAYPAL_CURRENCY=EUR
 PAYPAL_MODE=sandbox
 PAYPAL_SANDBOX_CLIENT_ID=ASK...eaU
 PAYPAL_SANDBOX_CLIENT_SECRET=EPg...kYB
@@ -39,13 +40,16 @@ DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=...
 DB_USERNAME=...
-DB_PASSWORD=...```
+DB_PASSWORD=...
+```
 
 ### Dependencias de compose
 
-```composer require srmklive/paypal
+```
+composer require srmklive/paypal
 php artisan install:api
-php artisan migrate```
+php artisan migrate
+```
 
 ## Contributing
 
